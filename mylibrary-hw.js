@@ -5,9 +5,9 @@ $(document).ready(function(){
 	//fadeOut
 	$("h1").fadeOut(6000);
 	//slideUp
-	$("bleh").slideUp(8000);
-
-
+	$("h2").slideUp(8000);
+	//Animating CSS:
+	
 
 
 	//click
