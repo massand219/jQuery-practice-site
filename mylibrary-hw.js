@@ -2,6 +2,10 @@
 $(document).ready(function(){
 	//fadeIn
 	$("p").fadeIn(5000);
+	//fadeOut
+	$("h1").fadeOut(6000);
+	//slideUp
+	$("bleh").slideUp(8000);
 
 
 
